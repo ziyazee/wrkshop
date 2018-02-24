@@ -6,4 +6,4 @@ it does
  - 2 lines
  - gcc compiler
  - had a good day
- - `.a/out`
+ - `./a.out`
